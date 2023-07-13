@@ -28,6 +28,7 @@
 | Spotify or equivalent                                                       | 10                          |
 | Cinema, International Release, 1 Seat                                       | 15                          |
 | Getaway trip to Florida mid summer for 2 (4 days)                           | 5250                        |
+| Trip to BC for 2 (5 days)                                                   | 3000                        |
 | --- **Health** & Beauty ---                                                 | -                           |
 | Haircut men (+20% tip)                                                      | 50                          |
 | Haircut women (+20% tip)                                                    | 100                         |
@@ -86,6 +87,6 @@ Let's imagine you only eat out every day at least 2 times, pay for prime, netfli
 
 ### $55,722 CAD net roughly corresponds to $74,210 CAD gross annual salary.
 
-
 ## Found a problem? Contribute here:
-https://github.com/sdwvit/cost-of-living-toronto 
+
+https://github.com/sdwvit/cost-of-living-toronto
