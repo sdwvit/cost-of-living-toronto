@@ -10,7 +10,7 @@
 | Coke/Pepsi pack at Metro (4.26 liter)                                                                                   | 9                           |
 | Milk (regular), (1.5 liter)                                                                                             | 6                           |
 | Rice (white), (1kg)                                                                                                     | 3                           |
-| Local Cheese (1kg)                                                                                                      | 10                          |
+| Local Cheese (0.5kg)                                                                                                    | 10                          |
 | Local Cheese Slices (0.4kg)                                                                                             | 5                           |
 | Beef Ground (1kg)                                                                                                       | 15                          |
 | Banana (1kg)                                                                                                            | 2                           |
@@ -95,31 +95,31 @@ Table for 4 ppl (2 kids) family:
 
 | Item name                                     | Num Items per year | Cost per item | Total per item | % from total |
 |-----------------------------------------------|--------------------|---------------|----------------|--------------|
-| Meal for 4, Inexpensive Restaurant            | 730                | 100           | 73000          | 49.43%       |
-| Amazon prime                                  | 1                  | 100           | 100            | 0.07%        |
-| Netflix                                       | 12                 | 16            | 192            | 0.13%        |
-| Spotify                                       | 12                 | 10            | 120            | 0.08%        |
-| Fitness                                       | 12                 | 30            | 360            | 0.24%        |
-| Cell                                          | 12                 | 180           | 2160           | 1.46%        |
-| Internet                                      | 12                 | 60            | 720            | 0.49%        |
-| Cinema or similar cost activity               | 52                 | 60            | 3120           | 2.11%        |
-| Haircut                                       | 12                 | 300           | 3600           | 2.44%        |
-| Dentist                                       | 2                  | 800           | 1600           | 1.08%        |
-| Clothes                                       | 4                  | 320           | 1280           | 0.87%        |
-| Shoes                                         | 4                  | 600           | 2400           | 1.63%        |
-| Car amortized for 5 years at 0%, paid monthly | 12                 | 400           | 4800           | 3.25%        |
-| Gasoline                                      | 12                 | 200           | 2400           | 1.63%        |
-| Car cost depriciation                         | 12                 | 40            | 480            | 0.33%        |
-| Parking                                       | 12                 | 200           | 2400           | 1.63%        |
-| Car insurance                                 | 12                 | 275           | 3300           | 2.23%        |
-| Maintenance                                   | 12                 | 80            | 960            | 0.65%        |
-| Rent                                          | 12                 | 3400          | 40800          | 27.63%       |
-| Hydro                                         | 12                 | 300           | 3600           | 2.44%        |
-| Tenant insurance                              | 12                 | 25            | 300            | 0.20%        |
+| Grocery for 4                                 | 52                 | 400           | 20800          | 16.80%       |
+| Amazon prime                                  | 1                  | 100           | 100            | 0.08%        |
+| Netflix                                       | 12                 | 16            | 192            | 0.16%        |
+| Spotify                                       | 12                 | 10            | 120            | 0.10%        |
+| Fitness                                       | 12                 | 30            | 360            | 0.29%        |
+| Cell                                          | 12                 | 180           | 2160           | 1.74%        |
+| Internet                                      | 12                 | 60            | 720            | 0.58%        |
+| Cinema or similar cost activity               | 52                 | 60            | 3120           | 2.52%        |
+| Haircut                                       | 12                 | 300           | 3600           | 2.91%        |
+| Dentist                                       | 2                  | 800           | 1600           | 1.29%        |
+| Clothes                                       | 4                  | 320           | 1280           | 1.03%        |
+| Shoes                                         | 4                  | 600           | 2400           | 1.94%        |
+| Daycare                                       | 12                 | 2400          | 28800          | 23.26%       |
+| Car amortized for 5 years at 0%, paid monthly | 12                 | 400           | 4800           | 3.88%        |
+| Gasoline                                      | 12                 | 200           | 2400           | 1.94%        |
+| Parking                                       | 12                 | 200           | 2400           | 1.94%        |
+| Car insurance                                 | 12                 | 275           | 3300           | 2.67%        |
+| Maintenance                                   | 12                 | 80            | 960            | 0.78%        |
+| Rent                                          | 12                 | 3400          | 40800          | 32.95%       |
+| Hydro                                         | 12                 | 300           | 3600           | 2.91%        |
+| Tenant insurance                              | 12                 | 25            | 300            | 0.24%        |
 | --- Grand Total ---                           |                    |               |                |              |
-|                                               |                    |               | 147692         | 100%         |
+|                                               |                    |               | 123812         | 100%         |
 
-### $147,692 CAD net roughly corresponds to $237,108 CAD gross annual salary.
+### $123,812 CAD net roughly corresponds to $190,088 CAD gross annual salary.
 
 ## Found a problem? Contribute here:
 
