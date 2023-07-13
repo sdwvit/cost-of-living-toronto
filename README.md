@@ -27,8 +27,8 @@
 | Netflix or equivalent                                                       | 16                          |
 | Spotify or equivalent                                                       | 10                          |
 | Cinema, International Release, 1 Seat                                       | 15                          |
-| Getaway trip to Florida mid summer for 2 (4 days)                           | 5250                        |
-| Trip to BC for 2 (5 days)                                                   | 3000                        |
+| Getaway trip to Florida mid summer for 2 (4 days)                           | (5250)                      |
+| Trip to BC for 2 (5 days)                                                   | (3000)                      |
 | --- **Health** & Beauty ---                                                 | -                           |
 | Haircut men (+20% tip)                                                      | 50                          |
 | Haircut women (+20% tip)                                                    | 100                         |
