@@ -20,6 +20,7 @@
 | Toast Bread pack (600g)                                                     | 4                           |
 | Onion (1kg)                                                                 | 5                           |
 | 24.2% THC buds (3.5gram)                                                    | 30                          |
+| Cigarettes (pack of 18)                                                     | 16                          |
 | Coffee latte starbucks or similar                                           | 6                           |
 | --- **Leisure** ---                                                         | -                           |
 | Amazon prime (per year)                                                     | 100                         |
