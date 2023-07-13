@@ -84,3 +84,7 @@ Let's imagine you only eat out every day at least 2 times, pay for prime, netfli
 |                                    |                    |                      | 55722          | 100%         |
 
 ### $55,722 CAD net roughly corresponds to $74,210 CAD gross annual salary.
+
+
+#### Contribute:
+https://github.com/sdwvit/cost-of-living-toronto 
