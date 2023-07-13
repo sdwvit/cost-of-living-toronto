@@ -82,4 +82,4 @@ Let's imagine you only eat out every day at least 2 times, pay for prime, netfli
 | --- **Grand Total** ---            |                    |                      |                |              |
 |                                    |                    |                      | 55722          | 100%         |
 
-### $55,722 CAD roughly corresponds to $74,210 CAD gross annual salary.
+### $55,722 CAD net roughly corresponds to $74,210 CAD gross annual salary.
