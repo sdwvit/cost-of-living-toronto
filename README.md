@@ -27,6 +27,7 @@
 | Netflix or equivalent                                                       | 16                          |
 | Spotify or equivalent                                                       | 10                          |
 | Cinema, International Release, 1 Seat                                       | 15                          |
+| Getaway trip to Florida mid summer                                          | 2500                        |
 | --- **Health** & Beauty ---                                                 | -                           |
 | Haircut men (+20% tip)                                                      | 50                          |
 | Haircut women (+20% tip)                                                    | 100                         |
