@@ -111,7 +111,7 @@ Table for 4 ppl (2 kids) family:
 | Gasoline                                      | 12                 | 200           | 2400           | 1.63%        |
 | Car cost depriciation                         | 12                 | 40            | 480            | 0.33%        |
 | Parking                                       | 12                 | 200           | 2400           | 1.63%        |
-| car insurance                                 | 12                 | 275           | 3300           | 2.23%        |
+| Car insurance                                 | 12                 | 275           | 3300           | 2.23%        |
 | Maintenance                                   | 12                 | 80            | 960            | 0.65%        |
 | Rent                                          | 12                 | 3400          | 40800          | 27.63%       |
 | Hydro                                         | 12                 | 300           | 3600           | 2.44%        |
