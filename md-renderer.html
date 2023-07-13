@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+
+    <link rel="stylesheet" href="md.css">
+  </head>
+  <body>
+    <div id="out" class="markdown-body"></div>
+    <script src="https://unpkg.com/marked/marked.min.js"></script>
+    <script>
+      fetch("README.md")
+        .then((res) => res.text())
+        .then((text) => {
+          const html = marked.parse(text);
+          out.innerHTML = html;
+        });
+    </script>
+  </body>
+</html>
