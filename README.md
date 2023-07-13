@@ -1,4 +1,4 @@
-# Cost of Living in Toronto
+# Cost of Living in Toronto 2023 edition
 
 | Category                                                                    | Cost CAD pre tax (post tax) |
 |-----------------------------------------------------------------------------|-----------------------------|
@@ -22,7 +22,7 @@
 | 24.2% THC buds (3.5gram)                                                    | 30                          |
 | Coffee latte starbucks or similar                                           | 6                           |
 | --- **Leisure** ---                                                         | -                           |
-| Amazon prime                                                                | 100                         |
+| Amazon prime (per year)                                                     | 100                         |
 | Netflix or equivalent                                                       | 16                          |
 | Spotify or equivalent                                                       | 10                          |
 | Cinema, International Release, 1 Seat                                       | 15                          |
@@ -58,3 +58,28 @@
 | --- **Income** ---                                                          | -                           |
 | Average Monthly Salary                                                      | 5170 (4000)                 |
 | Average Monthly Household Income                                            | 10000 (7130)                |
+
+Let's imagine you only eat out every day at least 2 times, pay for prime, netflix, spotify, fitness membership, cell, internet, go to movies once a week or similar cost activity, get a haircut once a month, dentist check twice a year, a new pair of jeans/cloths and shoes every quarter, commute 2 times a day on weekdays, take uber 2-3 times a week, rent a 1bd apt, single employment in household, and don't have kids. Then you need:
+
+| Item name                          | Num Items per year | Cost per item        | Total per item | % from total |
+|------------------------------------|--------------------|----------------------|----------------|--------------|
+| Meal for 1, Inexpensive Restaurant | 730                | 25 (meal for 2 / 2)  | 18250          | 32.75%       |
+| Amazon prime                       | 1                  | 100                  | 100            | 0.17%        |
+| Netflix                            | 12                 | 16                   | 192            | 0.34%        |
+| Spotify                            | 12                 | 10                   | 120            | 0.21%        |
+| Fitness                            | 12                 | 15                   | 180            | 0.32%        |
+| Cell                               | 12                 | 60                   | 720            | 1.29%        |
+| Internet                           | 12                 | 60                   | 720            | 1.29%        |
+| Cinema or similar cost activity    | 52                 | 15                   | 780            | 1.39%        |
+| Haircut                            | 12                 | 50 - 100 = 75 on avg | 900            | 1.61%        |
+| Dentist                            | 2                  | 200                  | 400            | 0.71%        |
+| Clothes                            | 4                  | 80                   | 320            | 0.57%        |
+| Shoes                              | 4                  | 150                  | 600            | 1.07%        |
+| Commute                            | 520                | 3.25                 | 1690           | 3.03%        |
+| Uber                               | 130                | 15                   | 1950           | 3.49%        |
+| Rent                               | 12                 | 2400                 | 28800          | 51.68%       |
+| No kids                            | 0                  | 0                    | 0              |              |
+| --- **Grand Total** ---            |                    |                      |                |              |
+|                                    |                    |                      | 55722          | 100%         |
+
+### $55,722 CAD roughly corresponds to $74,210 CAD gross annual salary.
