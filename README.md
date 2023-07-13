@@ -123,4 +123,4 @@ Table for 4 ppl (2 kids) family:
 
 ## Found a problem? Contribute here:
 
-https://github.com/sdwvit/cost-of-living-toronto
+[https://github.com/sdwvit/cost-of-living-toronto](https://github.com/sdwvit/cost-of-living-toronto)
