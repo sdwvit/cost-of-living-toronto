@@ -60,8 +60,8 @@
 | --- **Kids** ---                                                                                                        |                             |
 | Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child                                                     | 1200                        |
 | --- **Income** ---                                                                                                      |                             |
-| Average Monthly Salary                                                                                                  | 5170 (4000)                 |
-| Average Monthly Household Income                                                                                        | 10000 (7130)                |
+| Average annual salary                                                                                                   | 62040 (48000)               |
+| Average annual household income                                                                                         | 120000 (85560)              |
 
 Let's imagine you only eat out every day at least 2 times, pay for prime, netflix, spotify, fitness membership, cell, internet, go to movies once a week or similar cost activity, get a haircut once a month, dentist check twice a year, a new pair of jeans/cloths and shoes every quarter, commute 2 times a day on weekdays, take uber 2-3 times a week, rent a 1bd apt, single employment in household, and don't have kids. Then you need:
 
